@@ -1,6 +1,6 @@
 # 🤖 AI Chatbot Project
 
-Welcome to our AI Chatbot Project! This project aims to develop a chatbot that addresses real-world challenges in South Africa using conversational AI. The chatbot will provide support in a selected sector (e.g., education, finance, or the environment), and is designed, built, and documented entirely by students.
+Welcome to our AI Chatbot Project! This project aims to develop different kinds of chatbots that address real-world challenges in South Africa. The chatbots will provide support in selected sectors (e.g., education, finance, or the environment), and is designed, built, and documented entirely by students.
 
 ## 📌 Project Overview
 
